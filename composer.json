@@ -12,9 +12,9 @@
         "php": "^7.4",
         "ext-json": "*",
         "hyperf/http-message": "^2.0",
-        "hyperf/guzzle": "^2.2",
-        "hyperf/contract": "^2.2",
-        "hyperf/http-server": "^2.2",
+        "hyperf/guzzle": "^2.0",
+        "hyperf/contract": "^2.0",
+        "hyperf/http-server": "^2.0",
         "league/oauth1-client": "^1.0"
     },
     "require-dev": {
