@@ -1,6 +1,6 @@
 <h1 align="center"> hyperf-socialite </h1>
 
-# 这个仓库只是为了兼容php7而做 , 带按摩全部改造来源 cblink/hyperf-socialite
+# 这个仓库只是为了兼容php7而做 , 带码全部改造来源 cblink/hyperf-socialite
 
 ## About
 cblink/hyperf-socialite 组件衍生于 laravel/socialite 组件的，我们对它进行了一些改造，大部分功能保持了相同。在这里感谢一下 Laravel 开发组，实现了如此强大好用的社会化登陆组件。
