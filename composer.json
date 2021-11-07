@@ -11,7 +11,7 @@
     "require": {
         "php": "^7.4",
         "ext-json": "*",
-        "hyperf/http-message": "^2.2",
+        "hyperf/http-message": "^2.0",
         "hyperf/guzzle": "^2.2",
         "hyperf/contract": "^2.2",
         "hyperf/http-server": "^2.2",
