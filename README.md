@@ -11,10 +11,10 @@ cblink/hyperf-socialite 组件衍生于 laravel/socialite 组件的，我们对�
 ```shell
 
 # 安装
-composer require cblink/hyperf-socialite -vvv
+composer require mmfei/hyperf-socialite -vvv
 
 # 创建配置文件
-php bin/hyperf.php vendor:publish cblink/hyperf-socialite
+php bin/hyperf.php vendor:publish mmfei/hyperf-socialite
 
 ```
 
