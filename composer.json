@@ -12,7 +12,7 @@
         "php": "^7.1|^8.0",
         "ext-json": "*",
         "hyperf/http-message": "^2.2",
-        "hyperf/guzzle": "^2.2",
+        "hyperf/guzzle": "^2.2|^3.0.0",
         "hyperf/contract": "^2.2",
         "hyperf/http-server": "^2.2",
         "league/oauth1-client": "^1.0"
